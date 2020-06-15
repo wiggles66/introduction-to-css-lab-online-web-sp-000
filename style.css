@@ -5,7 +5,10 @@ background-color:#00b3e6
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
-width: 700px
+width: 700px;
+}
+{
+margin:auto;
 }
 
 /* ID selector to select the element with id 'main-header' */
